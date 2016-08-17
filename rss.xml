@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[dede hourican]]></title>
         <description><![CDATA[dede hourican]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dede-hourican/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 14:58:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 17:07:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dede-hourican/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Sakaigers building at the #Tsugi #hackathon. </p>]]></description>
+            <link>https://thegrid.ai/dede-hourican/sakaigers-building-at-the-tsugi-hackathon/index.html</link>
+            <guid isPermaLink="false">5b379d96-1371-49cd-b5c9-cf1d69020099</guid>
+            <pubDate>Wed, 17 Aug 2016 17:07:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/997ac44d-49e9-41e7-a1f0-0071fb3c6c36.jpg">]]></description>
-            <link>undefinedsakai-open-source-lms/index.html</link>
+            <link>https://thegrid.ai/dede-hourican/sakai-open-source-lms/index.html</link>
             <guid isPermaLink="false">b2b3eadf-f44e-479a-8c04-bab48cb38090</guid>
             <pubDate>Wed, 17 Aug 2016 14:58:05 GMT</pubDate>
         </item>
